@@ -1,0 +1,2 @@
+print('Sasha')
+print("Petrov")
